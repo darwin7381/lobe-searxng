@@ -12,7 +12,6 @@ search:
   formats:
     - html
     - json
-  default_output_format: json
 
 server:
   # Is overwritten by ${SEARXNG_SECRET}
